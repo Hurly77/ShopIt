@@ -1,5 +1,4 @@
-.vscode
-#addign some text so I can test my branch
+node_modules
 *.log
 npm-debug.log*
 node_modules/
