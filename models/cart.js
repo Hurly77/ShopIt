@@ -1,5 +1,8 @@
 module.exports = class Cart {
-  constructor() {
+  static addProduct(id) {
+    //fetch previous cart
+    //anal the => Find existing product
+    // add new 
     
   }
 }
