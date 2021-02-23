@@ -7,6 +7,7 @@ const getProductsFromFile = (callback) => {
 			return callback([]);
 		} else {
 			callback(JSON.parse(fileContent));
+			
 		}
 	});
 };
